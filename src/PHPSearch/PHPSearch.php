@@ -25,7 +25,7 @@ https://github.com/phpsearch/library
 
 Note: Delete "namespace..." if you're not using composer to make everything a bit simpler.
 */
-namespace mrfakename\PHPSearch;
+namespace mrfakename\PHPSearch\;
 
 class PHPSearch {
     private $query = null;
