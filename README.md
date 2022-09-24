@@ -35,6 +35,7 @@ Example:
 
 ```php
 include_once 'PHPSearch.php';
+use mrfakename\PHPSearch;
 # Create the connection!
 $conn = mysqli_connect('localhost', 'root', '', 'links');
 
