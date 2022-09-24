@@ -3,7 +3,7 @@
   "description": "A PHP-based search engine library that's super simple and doesn't depend on anything.",
   "autoload": {
     "psr-4": {
-      "mrfakename\\PHPSearch": "src/PHPSearch"
+      "mrfakename\\PHPSearch": "src/PHPSearch/PHPSearch.php"
     }
   }
 }
