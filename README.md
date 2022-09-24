@@ -12,6 +12,7 @@ With PHPSearch, you don't have to worry about SQL Injection, advanced search alg
 You can install PHPSearch using Composer. This is the easiest way.
 
 ```
+composer config minimum-stability dev
 composer require mrfakename/phpsearch
 ```
 
