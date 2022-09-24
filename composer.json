@@ -1,1 +1,4 @@
-{}
+{
+  "name": "mrfakename/phpsearch",
+  "description": "A PHP-based search engine library that's super simple and doesn't depend on anything.",
+}
