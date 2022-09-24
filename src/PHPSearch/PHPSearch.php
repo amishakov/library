@@ -22,7 +22,11 @@ Version 1.0.0.
 For updates, news, and more, check out:
 
 https://github.com/phpsearch/library
+
+Note: Delete "namespace..." if you're not using composer to make everything a bit simpler.
 */
+namespace mrfakename\PHPSearch;
+
 class PHPSearch {
     private $query = null;
     private $connection = null;
