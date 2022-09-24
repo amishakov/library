@@ -1,6 +1,7 @@
 {
   "name": "mrfakename/phpsearch",
   "description": "A PHP-based search engine library that's super simple and doesn't depend on anything.",
+  "version": "1.0.0",
   "autoload": {
     "psr-4": {
       "mrfakename\\PHPSearch\\": "src/PHPSearch/PHPSearch.php"
