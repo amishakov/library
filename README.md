@@ -9,8 +9,6 @@ With PHPSearch, you don't have to worry about SQL Injection, advanced search alg
 
 ### With Composer
 
-### Right now installing with composer is not working. Please help this project by fixing in a pull request. Thanks!
-
 You can install PHPSearch using Composer. This is the easiest way.
 
 ```
