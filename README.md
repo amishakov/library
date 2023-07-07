@@ -107,4 +107,6 @@ while ($row = mysqli_fetch_assoc($res)) {
 }
 ```
 
-Copyright &copy; 2023 mrfakename. All rights reserved.
+<img src="https://github.com/phpsearch/library/assets/76186054/b15ed114-c51e-4161-bb5b-69b8329a2e98" width="100">
+
+Copyright &copy; 2023 [DBSearch](https://github.com/dbsearch). All rights reserved.
