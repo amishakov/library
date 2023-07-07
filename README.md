@@ -1,5 +1,5 @@
 # PHPSearch
-| Keyword search, translation to another programming language (Python?), &amp; prepared statement support coming soon! |
+| Keyword search, translation to another programming language (Python?), &amp; prepared statement support coming soon! [Vote on features](https://github.com/phpsearch/library/discussions/1) |
 | ---
 
 ## Introduction
