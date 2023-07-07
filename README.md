@@ -105,4 +105,4 @@ while ($row = mysqli_fetch_assoc($res)) {
 }
 ```
 
-Copyright &copy; 2022 mrfakename. All rights reserved.
+Copyright &copy; 2023 mrfakename. All rights reserved.
