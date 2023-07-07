@@ -107,6 +107,10 @@ while ($row = mysqli_fetch_assoc($res)) {
 }
 ```
 
-<img src="https://github.com/phpsearch/library/assets/76186054/b15ed114-c51e-4161-bb5b-69b8329a2e98" width="100">
+## DBSearch
 
 Copyright &copy; 2023 [DBSearch](https://github.com/dbsearch). All rights reserved.
+
+PHPSearch is an affiliate of DBSearch. DBSearch is created open-sourced tools for searching databases. [Learn more](https://github.com/dbsearch)
+
+<img src="https://github.com/phpsearch/library/assets/76186054/b15ed114-c51e-4161-bb5b-69b8329a2e98" width="100">
