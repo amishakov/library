@@ -9,21 +9,13 @@ PHPSearch
  / .___/_/ /_/ .___/____/\___/\__,_/_/   \___/_/ /_/ 
 /_/         /_/                                      
 
-Copyright (c) 2022 by mrfakename <https://mrfake.name/>. All rights reserved.
-
-PHPSearch is a simple library to search with PHP.
-
-Do not remove this comment of code (comments do not slow down code execution).
-
-Thank you for using PHPSearch.
-
-Version 1.0.0.
+Copyright (c) 2023 by DBSearch <https://github.com/dbsearch>. All rights reserved.
 
 For updates, news, and more, check out:
 
 https://github.com/phpsearch/library
 
-Note: Delete "namespace..." if you're not using composer to make everything a bit simpler.
+Note: Delete "namespace..." if you're not using Composer to make everything a bit simpler.
 */
 namespace mrfakename\PHPSearch\;
 
