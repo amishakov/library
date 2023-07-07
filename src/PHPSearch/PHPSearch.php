@@ -13,7 +13,7 @@ Copyright (c) 2023 by DBSearch <https://github.com/dbsearch>. All rights reserve
 
 For updates, news, and more, check out:
 
-https://github.com/phpsearch/library
+>> https://github.com/phpsearch/library <<
 
 Note: Delete "namespace..." if you're not using Composer to make everything a bit simpler.
 */
