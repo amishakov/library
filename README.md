@@ -1,4 +1,7 @@
 # PHPSearch
+| Keyword search, translation to another programming language (Python?), &amp; prepared statement support coming soon! |
+| ---
+
 ## Introduction
 
 PHPSearch is a PHP search engine library with no dependencies. It's super simple and easy to use, with minimal programming knowledge required.
