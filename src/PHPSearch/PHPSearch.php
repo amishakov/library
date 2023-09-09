@@ -9,7 +9,7 @@ PHPSearch
  / .___/_/ /_/ .___/____/\___/\__,_/_/   \___/_/ /_/ 
 /_/         /_/                                      
 
-Copyright (c) 2023 by DBSearch <https://github.com/dbsearch>. All rights reserved.
+Copyright (c) 2023 by DBSearch <https://github.com/phpsearch>. All rights reserved.
 
 For updates, news, and more, check out:
 
