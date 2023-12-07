@@ -1,3 +1,5 @@
+# ABANDONED! I am looking for a PHP-fluent developer to add as a contributor. If you are interested in maintaining this open source repository, please create an Issue on GitHub!
+
 # PHPSearch
 | Keyword search, translation to another programming language (Python?), &amp; prepared statement support coming soon! [Vote on features](https://github.com/phpsearch/library/discussions/1) |
 | ---
